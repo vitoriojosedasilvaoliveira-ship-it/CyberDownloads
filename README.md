@@ -1,3 +1,1 @@
-# CyberDownloads
-Downloads Center 
-Center for downloading APKs of all types.  
+CyberDownloads is being developed to be a hub for pirated APKs/applications. 
